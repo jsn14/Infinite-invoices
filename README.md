@@ -1,2 +1,2 @@
 # Infinite-invoices
-Create invoices online and much more
+Create invoices and much more
